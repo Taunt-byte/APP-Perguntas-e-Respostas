@@ -1,6 +1,13 @@
-# questadventure
+<h1>Quest Adventure</h1>
 
-A new Flutter project.
+Status: under development
+
+
+## project goals
+
++ create an application in the dart language
++ create a game of questions and answers
++ learn how the dart language works
 
 ## Getting Started
 
